@@ -16,7 +16,7 @@ WeatherPy:
 
         - Latitude vs. Temperature
 
-![Alt text](<Screen Shot 2024-01-04 at 12.54.20 PM.png>)
+![Alt text](<Screen Shot 2024-01-04 at 5.22.13 PM.png>)
 
         - Latitude vs. Humidity
 
@@ -36,23 +36,38 @@ WeatherPy:
 
     - You should create the following plots:
 
-        - Northern Hemisphere: Temperature vs. Latitude
-
-        - Southern Hemisphere: Temperature vs. Latitude
-
-        -  Northern Hemisphere: Humidity vs. Latitude
-
-        - Southern Hemisphere: Humidity vs. Latitude
-
-        - Northern Hemisphere: Cloudiness vs. Latitude
-
-        - Southern Hemisphere: Cloudiness vs. Latitude
-
-        - Northern Hemisphere: Wind Speed vs. Latitude
-
-        - Southern Hemisphere: Wind Speed vs. Latitude
+        - Northern Hemisphere: Latitude vs. Temperature
 
 ![Alt text](<Screen Shot 2024-01-04 at 1.23.47 PM.png>)
+
+        - Southern Hemisphere: Latitude vs. Temperature
+
+![Alt text](<Screen Shot 2024-01-04 at 5.26.01 PM.png>)
+
+        -  Northern Hemisphere: Latitude vs. Humidity
+
+![Alt text](<Screen Shot 2024-01-04 at 5.26.27 PM.png>)
+
+        - Southern Hemisphere: Latitude vs. Humidity
+
+![Alt text](<Screen Shot 2024-01-04 at 5.26.50 PM.png>)
+
+        - Northern Hemisphere: Latitude vs. Cloudiness
+
+![Alt text](<Screen Shot 2024-01-04 at 5.27.13 PM.png>)
+
+        - Southern Hemisphere: Latitude vs. Cloudiness
+
+![Alt text](<Screen Shot 2024-01-04 at 5.27.43 PM.png>)
+
+        - Northern Hemisphere: Latitude vs. Wind Speed
+
+![Alt text](<Screen Shot 2024-01-04 at 5.28.12 PM.png>)
+
+        - Southern Hemisphere: Latitude vs. Wind Speed
+
+![Alt text](<Screen Shot 2024-01-04 at 5.28.35 PM.png>)
+
 
 VacationPy:
 
