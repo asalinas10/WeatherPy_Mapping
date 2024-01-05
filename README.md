@@ -16,13 +16,19 @@ WeatherPy:
 
         - Latitude vs. Temperature
 
+![Alt text](<Screen Shot 2024-01-04 at 12.54.20 PM.png>)
+
         - Latitude vs. Humidity
+
+![Alt text](<Screen Shot 2024-01-04 at 5.19.48 PM.png>)
 
         - Latitude vs. Cloudiness
 
+![Alt text](<Screen Shot 2024-01-04 at 5.20.22 PM.png>)
+
         - Latitude vs. Wind Speed
 
-![Alt text](<Screen Shot 2024-01-04 at 12.54.20 PM.png>)
+![Alt text](<Screen Shot 2024-01-04 at 5.20.46 PM.png>)
 
 2. Compute Linear Regression for Each Relationship
 
